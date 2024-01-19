@@ -8,4 +8,4 @@ You can download the toy datasets: https://osf.io/bqcjp/
 * Wine
 
 
-I attached a notebook where I analysis the New York car crash dataset to study the geometry of the structure missingness (data download via the notebook). 
+I attached a notebook where I analysis a dataset with missingness (New York car crash) to study its geometry. 
