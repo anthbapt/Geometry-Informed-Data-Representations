@@ -1,6 +1,7 @@
 # Geometry-Informed-Data-Representations
 
 Turing Challenge 2024: Geometry-Informed-Data-Representations
+
 Alessandro Barp, Anthony Baptista, and Andrea Marinoni
 
 We attached a notebook (Data_missingness_Geometry.ipynb) where we analysis a dataset with missingness (New York car crash) to study its geometry. 
@@ -16,6 +17,6 @@ You can also download the following toy datasets:
 In this OSF repository: https://osf.io/bqcjp/
 
 The real datasets are accessible to the following links:
-Climate change: github.com/IMPACTSquad/InterGraphNorwayMM
-Biomedical data: https://www.cancer.gov/ccg/research/genome-sequencing/tcga
+* Climate change: https://github.com/IMPACTSquad/InterGraphNorwayMM
+* Biomedical data: https://www.cancer.gov/ccg/research/genome-sequencing/tcga
 
