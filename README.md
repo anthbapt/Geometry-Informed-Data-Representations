@@ -1,7 +1,11 @@
 # Geometry-Informed-Data-Representations
-Turing Challenge 2024
 
-I attached a notebook (Data_missingness_Geometry.ipynb) where I analysis a dataset with missingness (New York car crash) to study its geometry. 
+Turing Challenge 2024: Geometry-Informed-Data-Representations
+Alessandro Barp, Anthony Baptista, and Andrea Marinoni
+
+We attached a notebook (Data_missingness_Geometry.ipynb) where we analysis a dataset with missingness (New York car crash) to study its geometry. 
+This notebook include missingness patterns structure analysis, graph filtration based on matrix transformation. The differential geometric tools are available in the following Github: 
+https://github.com/anthbapt/pynetflow
 
 You can also download the following toy datasets:
 * Migration incidents
@@ -10,4 +14,8 @@ You can also download the following toy datasets:
 * Wine
 
 In this OSF repository: https://osf.io/bqcjp/
+
+The real datasets are accessible to the following links:
+Climate change: github.com/IMPACTSquad/InterGraphNorwayMM
+Biomedical data: https://www.cancer.gov/ccg/research/genome-sequencing/tcga
 
