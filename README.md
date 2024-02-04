@@ -1,6 +1,6 @@
 # Geometry-Informed-Data-Representations
 
-Turing Challenge 2024: Geometry-Informed-Data-Representations
+Turing Challenge 2024: [Geometry-Informed-Data-Representations](https://www.turing.ac.uk/sites/default/files/2024-01/alessandro_barp-_geometry-informed_data_representations.pdf)
 
 Alessandro Barp, Anthony Baptista, and Andrea Marinoni
 
